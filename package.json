@@ -1,0 +1,14 @@
+{
+  "name": "quick-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "brittle test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "brittle": "^3.7.0"
+  }
+}
